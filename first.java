@@ -2,6 +2,6 @@ public class first
 {
 public static void main(String Args[])
 {
-	System.out.println("First git code is mod");
+	System.out.println("First git code is mod by 2");
 }
 }
